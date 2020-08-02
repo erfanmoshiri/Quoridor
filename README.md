@@ -1,6 +1,6 @@
 # Quoridor
 Quoridor is a popular board game, simulated using Java and Javafx
-(in partnership with Ghazal Kalhori)
+(in partnership with Ghazal Kalhori : https://github.com/GKalhori )
 it is part of the AI subject in CE at Shahid Beheshti Universty.
 
   it uses Evolutionary algorithm and programming for AI side.
